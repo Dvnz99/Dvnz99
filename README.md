@@ -8,13 +8,6 @@ width="40px" alt="hi"><br></h1>
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-## Biodata
-my name is akmal
-
-15 y.o
-
-live in Yogyakarta
-
 ## &#x1F919; Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
