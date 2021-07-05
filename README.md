@@ -21,6 +21,8 @@ width="40px" alt="hi"><br></h1>
 **Motto**
 * Peace And Freedom
 
+**Status**
+* Single :)
 ## Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
