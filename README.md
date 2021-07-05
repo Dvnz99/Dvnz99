@@ -9,11 +9,12 @@ width="40px" alt="hi"><br></h1>
 </p>
 
 ## Biodata
-```sh
 my name is akmal
+
 15 y.o
+
 live in Yogyakarta
-```
+
 ## &#x1F919; Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
