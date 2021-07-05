@@ -8,7 +8,6 @@ width="40px" alt="hi"><br></h1>
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-## BIODATA
 **About me**
 * My Name Is Akmal
 * 15 y.o
