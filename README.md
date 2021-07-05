@@ -9,9 +9,17 @@ width="40px" alt="hi"><br></h1>
 </p>
 
 ## BIODATA
+**About me**
 * My Name Is Akmal
 * 15 y.o
 * Live In Yogyakarta
+
+**Hobby**
+* Playing football
+* Games
+
+**Motto**
+* Peace And Freedom
 
 ## Connect With Me
 
