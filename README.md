@@ -1,5 +1,5 @@
 ### Hi there, I'm akmal👋
 
-k I'm 15 years old
+I'm 15 years old
 I live in Yogyakarta
 I just learn by having fun
