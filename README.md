@@ -14,7 +14,9 @@ width="40px" alt="hi"><br></h1>
 * Live In Yogyakarta
 
 
-**Connect With Me**
+
+
+## Connect With Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akmalz.real)
