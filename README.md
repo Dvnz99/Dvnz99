@@ -14,6 +14,27 @@ width="40px" alt="hi"><br></h1>
 
 - 📝 I'm currently working on [`Akmalzz`](https://github.com/Dvnz99/) 
 
+# INTRODUCTING MY SELF 
+```
+> Name: Akmal Oktavian
+> Status: Student at SMPN 2 Pleret
+> Address: Bantul, Yogyakarta, Inodonesia
+> Age: 14 Years Old
+> Date Of Birth: 23 October, 2006
+```
+
+ # SOSIAL MEDIA 
+
+
+* [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/akmalz.real)
+
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628885960825)
+
+* [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
+
+# SUPPORT ME 
+
+* [![Paypal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/3wru4hg9)
 
 
 <p align="center">
@@ -43,32 +64,7 @@ width="40px" alt="hi"><br></h1>
 </p>
 
 
-
-
-# INTRODUCTING MY SELF 
-```
-> Name: Akmal Oktavian
-> Status: Student at SMPN 2 Pleret
-> Address: Bantul, Yogyakarta, Inodonesia
-> Age: 14 Years Old
-> Date Of Birth: 23 October, 2006
-```
-
- # SOSIAL MEDIA 
-
-
-* [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/akmalz.real)
-
-* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628885960825)
-
-* [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
-
-# SUPPORT ME 
-
-* [![Paypal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/3wru4hg9)
-
-
 <!---
-BryanRfly/BryanRfly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dvnz99/Dvnz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
