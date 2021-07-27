@@ -12,7 +12,7 @@ width="40px" alt="hi"><br></h1>
 
 - 👀 I'm currently focusing on *JavaScript*.
 
-- 📝 I'm currently working on [`BryanRfly`](https://github.com/Dvnz99/) 
+- 📝 I'm currently working on [`Akmalzz`](https://github.com/Dvnz99/) 
 
 
 
