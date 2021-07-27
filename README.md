@@ -8,22 +8,70 @@ width="40px" alt="hi"><br></h1>
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-## Biodata
-**About me**
-* My Name Is Akmal
-* 15 y.o
-* Live In Yogyakarta
+- 🌱 I’m currently learning *WhatsApp Bot*.
 
-**Hobby**
-* Football
-* Games
-* Culinary
+- 👀 I'm currently focusing on *JavaScript*.
 
-**Motto**
-* Peace And Freedom
+- 📝 I'm currently working on [`BryanRfly`](https://github.com/Dvnz99/) 
 
-## Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akmalz.real)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628885960825)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
+  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
+<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=Dvnz99 alt=Dvnz99/> </p>
+<p align="center">
+  <a href="https://github.com/Dvnz99"><img src="https://github-readme-stats.vercel.app/api?username=Dvnz99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dvnz99"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dvnz99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmeikyXSec4O4" />
+</p>
+
+
+# INTRODUCTING MY SELF 
+```
+> Name: Akmal Oktavian
+> Status: Student at SMPN 2 Pleret
+> Address: Bantul, Yogyakarta, Inodonesia
+> Age: 14 Years Old
+> Date Of Birth: 23 October, 2006
+```
+
+ # SOSIAL MEDIA 
+
+
+* [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/akmalz.real)
+
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628885960825)
+
+* [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
+
+# SUPPORT ME 
+
+* [![Paypal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/3wru4hg9)
+
+
+<!---
+BryanRfly/BryanRfly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
