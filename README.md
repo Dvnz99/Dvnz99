@@ -42,9 +42,7 @@ width="40px" alt="hi"><br></h1>
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
 </p>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmeikyXSec4O4" />
-</p>
+
 
 
 # INTRODUCTING MY SELF 
