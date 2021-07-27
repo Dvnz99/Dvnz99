@@ -8,12 +8,6 @@ width="40px" alt="hi"><br></h1>
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-- 🌱 I’m currently learning *WhatsApp Bot*.
-
-- 👀 I'm currently focusing on *JavaScript*.
-
-- 📝 I'm currently working on [`Akmalzz`](https://github.com/Dvnz99/) 
-
 # INTRODUCTING MY SELF 
 ```
 > Name: Akmal Oktavian
@@ -35,6 +29,13 @@ width="40px" alt="hi"><br></h1>
 # SUPPORT ME 
 
 * [![Paypal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/3wru4hg9)
+
+
+- 🌱 I’m currently learning *WhatsApp Bot*.
+
+- 👀 I'm currently focusing on *JavaScript*.
+
+- 📝 I'm currently working on [`Akmalzz`](https://github.com/Dvnz99/) 
 
 
 <p align="center">
