@@ -20,9 +20,9 @@ width="40px" alt="hi"><br></h1>
 
 - Date Of Birth: 23 October, 2006
 
-- I’m currently learning *WhatsApp Bot*.
+- I’m currently learning `WhatsApp Bot`
 
-- I'm currently focusing on *JavaScript*.
+- I'm currently focusing on `JavaScript`
 
 - I'm currently working on [`Akmalzz`](https://github.com/Dvnz99/) 
 
