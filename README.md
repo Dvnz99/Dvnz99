@@ -9,7 +9,7 @@ width="40px" alt="hi"><br></h1>
 
 
 # INTRODUCTING MY SELF 
-```
+```js
 const Akmalz = () => {
   return {
     pronouns: "He" | "Him",
