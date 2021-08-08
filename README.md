@@ -17,11 +17,6 @@ width="40px" alt="hi"><br></h1>
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628885960825)
  [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akmalokz)
 
-# SUPPORT ME 
-
-* [![Paypal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/3wru4hg9)
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
