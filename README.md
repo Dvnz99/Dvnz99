@@ -55,15 +55,19 @@ width="40px" alt="hi"><br></h1>
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 
 <p align="center">
-  <a href="https://github.com/Dvnz99"><img src="https://github-readme-stats.vercel.app/api?username=Dvnz99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/dvnz99"><img src="https://github-readme-stats.vercel.app/api?username=dvnz99&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dvnz99"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dvnz99&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/dvnz99"><img src="https://github-readme-streak-stats.herokuapp.com?user=dvnz99&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-
+  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+  <a href="https://github.com/dvnz99"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvnz99&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/dvnz99"><img src="https://github-profile-trophy.vercel.app/?username=dvnz99&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
 
