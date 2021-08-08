@@ -8,24 +8,10 @@ width="40px" alt="hi"><br></h1>
 </p>
 
 
-# INTRODUCTING MY SELF 
-```js
-const Akmalz = () => {
-  return {
-    pronouns: "He" | "Him",
-    askMeAbout: ["Front End & Back End Web Development", "App Development"],
-    technologies:{
-        backEnd: ["ExpressJs", "Flask"],
-        appDevelopment: ["Sketchware", "AndroidStudio"],
-        gameDevelopment: ["Unity"]
-    },
-    social:{
-        Whatsapp : "https://api.whatsapp.com/send?phone=18573850781&text=Halo+Zahir",
-    },
-    funFact: "I'm Just Hobby Programming"
-  }
-}
-```
+# INTRODUCTING MY SELF
+- Akmalz
+- 14 y.o
+- live in Indonesia
 
 
  # SOSIAL MEDIA 
