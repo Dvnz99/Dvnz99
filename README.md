@@ -6,14 +6,8 @@ width="40px" alt="hi"><br></h1>
 <p align="center">
   <a href="https://github.com/Dvnz99"><img title="Author" src="https://img.shields.io/badge/Author-dvnz99-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
-
-
-# INTRODUCTING MY SELF
-- Akmalz
-- 14 y.o
-- live in Indonesia
-
-
+```
+```
  # SOSIAL MEDIA 
 
 * [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/akmalz.real)
