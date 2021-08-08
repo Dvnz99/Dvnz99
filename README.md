@@ -9,22 +9,23 @@ width="40px" alt="hi"><br></h1>
 
 
 # INTRODUCTING MY SELF 
-
-- Name: Akmal Oktavian
-
-- Status: Student at SMPN 2 Pleret
-
-- Address: Bantul, Yogyakarta, Inodonesia
-
-- Age: 14 Years Old
-
-- Date Of Birth: 23 October, 2006
-
-- I’m currently learning `WhatsApp Bot`
-
-- I'm currently focusing on `JavaScript`
-
-- I'm currently working on [`Akmalzz`](https://github.com/Dvnz99/) 
+```
+const Akmalz = () => {
+  return {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Front End & Back End Web Development", "App Development"],
+    technologies:{
+        backEnd: ["ExpressJs", "Flask"],
+        appDevelopment: ["Sketchware", "AndroidStudio"],
+        gameDevelopment: ["Unity"]
+    },
+    social:{
+        Whatsapp : "https://api.whatsapp.com/send?phone=18573850781&text=Halo+Zahir",
+    },
+    funFact: "I'm Just Hobby Programming"
+  }
+}
+```
 
 
  # SOSIAL MEDIA 
