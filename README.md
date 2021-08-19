@@ -8,7 +8,6 @@ width="40px" alt="hi"><br></h1>
 </p>
 
 ```
-NEWBIE BANG
 ```
 
  # SOSIAL MEDIA 
